@@ -1,4 +1,4 @@
 # solidity-book
 
-solidity 记录
+本书主要记录了solidity 的使用
 
